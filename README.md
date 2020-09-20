@@ -19,3 +19,24 @@ A collection of opencore efi’s
 
 **WiFi/BT:**  Replaced the internal WiFi/BT with [Broadcom BCM94360NG](https://www.amazon.com/gp/product/B083YXS7VF/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1)
 
+
+## Asus H170I-Pro
+
+[Motherboard Page](https://www.asus.com/Motherboards/H170I-PRO/)
+
+**Bios:** 3805 
+
+**OpenCore:** 0.6.1
+
+**SMBios:** iMac 17,1
+
+**CPU:** Intel Core i5-6600 (Skylake)
+
+**GPU:** Radeon RX580
+
+**OS:** macOS Catalina Version 10.15.6 (Build 19G2021)
+
+**WiFi/BT:**  BCM20702A0
+
+**Notes:**
+* The 2 rear bottom ports near the audio jacks have USB 3.0 disabled in the USBMap so that the computer is under the 15 port usb limit
