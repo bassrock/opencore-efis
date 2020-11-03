@@ -7,7 +7,7 @@ A collection of opencore efi’s
 
 **Bios**: ASRock 2.30
 
-**OpenCore:** 0.6.2
+**OpenCore:** 0.6.3
 
 **SMBios:**  MacPro 7,1
 
@@ -15,7 +15,7 @@ A collection of opencore efi’s
 
 **GPU**: Radeon Vega 64
 
-**OS**: macOS Catalina Version 10.15.6 (Build 19G2021)
+**OS**: macOS Catalina Version 10.15.67 (Build 19H2)
 
 **WiFi/BT:**  Replaced the internal WiFi/BT with [Broadcom BCM94360NG](https://www.amazon.com/gp/product/B083YXS7VF/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1)
 
