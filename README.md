@@ -5,7 +5,7 @@ A collection of opencore efi’s
 
 [Motherboard Page](https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming-ITXTB3/index.asp)
 
-**Bios**: ASRock 2.30
+**Bios**: ASRock 2.71
 
 **OpenCore:** 0.6.3
 
