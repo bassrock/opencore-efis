@@ -13,9 +13,9 @@ A collection of opencore efi’s
 
 **CPU:** AMD Ryzen 9 3950X 16-Core Processor
 
-**GPU**: Radeon Vega 64
+**GPU**: Radeon Vega 56 or 64
 
-**OS**: macOS Catalina Version 10.15.67 (Build 19H2)
+**OS**: macOS Big Sur Version 11.0.1 (Build 20B29)
 
 **WiFi/BT:**  Replaced the internal WiFi/BT with [Broadcom BCM94360NG](https://www.amazon.com/gp/product/B083YXS7VF/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1)
 
