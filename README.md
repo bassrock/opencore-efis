@@ -40,3 +40,25 @@ A collection of opencore efi’s
 
 **Notes:**
 * The 2 rear bottom ports near the audio jacks have USB 3.0 disabled in the USBMap so that the computer is under the 15 port usb limit
+
+
+## MSI 7170A PC-Mate
+
+[Motherboard Page](https://us.msi.com/Motherboard/Z170A-PC-MATE)
+
+**Bios:** 
+
+**OpenCore:** 0.6.3
+
+**SMBios:** iMac 17,1
+
+**CPU:** Intel Core i5-6600 (Skylake)
+
+**GPU:** Radeon RX580
+
+**OS:** macOS Catalina Version 10.15.7 (Build 19G2021)
+
+**WiFi/BT:**  BCM20702A0
+
+**Notes:**
+* The 2 rear bottom ports near the audio jacks have USB 3.0 disabled in the USBMap so that the computer is under the 15 port usb limit
