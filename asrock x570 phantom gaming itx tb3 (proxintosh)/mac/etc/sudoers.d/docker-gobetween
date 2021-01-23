@@ -1,0 +1,1 @@
+%staff ALL=(ALL) NOPASSWD: /usr/local/opt/docker-gobetween/bin/gobetween
