@@ -26,7 +26,7 @@ A collection of opencore efi’s
 
 **Bios**: ASRock 3.00
 
-**OpenCore:** 0.6.6
+**OpenCore:** 0.6.7
 
 **SMBios:**  MacPro 7,1
 
