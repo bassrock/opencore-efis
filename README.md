@@ -66,7 +66,7 @@ A collection of opencore efi’s
 
 **Bios:**
 
-**OpenCore:** 0.6.3
+**OpenCore:** 0.7.1
 
 **SMBios:** iMac 17,1
 
@@ -74,7 +74,7 @@ A collection of opencore efi’s
 
 **GPU:** Radeon RX580
 
-**OS**: macOS Big Sur Version 11.0.1 (Build 20B29)
+**OS**: macOS Big Sur Version 11.4 (Build 20F71)
 
 **WiFi/BT:** BCM20702A0
 
