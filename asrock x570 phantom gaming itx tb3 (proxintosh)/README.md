@@ -12,6 +12,12 @@ apt install git vim -y
 apt upgrade
 ```
 
+2. Install Linux Headers
+
+```
+apt install pve-headers-$(uname -r)
+```
+
 2. Install vendor-reset <https://github.com/gnif/vendor-reset>
 
 Perform these after you install things in proxmox
@@ -29,6 +35,11 @@ reboot
 
 1. Install docker <https://docs.docker.com/engine/install/debian/> in proxmox
 2. Install nfs and autofs in proxmox
+
+```
+apt install autofs nfs-client nfs-server
+```
+
 3. Ensure there is a host to guest network setup where the host is at 10.10.10.1 and guest at 10.10.10.1
 4. Copy all files in etc if you have not
 5. Start autofs
