@@ -26,7 +26,7 @@ A collection of opencore efi’s
 
 **Bios**: ASRock 3.20
 
-**OpenCore:** 0.7.7
+**OpenCore:** 0.8.0
 
 **SMBios:** MacPro 7,1
 
@@ -34,7 +34,7 @@ A collection of opencore efi’s
 
 **GPU**: Radeon 6800XT
 
-**OS**: macOS Monterey Version 12.1 (Build 21C52)
+**OS**: macOS Monterey Version 12.4 (Build 21F79)
 
 **WiFi/BT:** Replaced the internal WiFi/BT with [Broadcom BCM94360NG](https://www.amazon.com/gp/product/B083YXS7VF/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1)
 
