@@ -80,7 +80,7 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x1)/Pci(0x1F,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1F,0x0)</key>
 			<dict>
 				<key>compatible</key>
 				<string>pci8086,2916</string>
@@ -89,27 +89,27 @@
 				<key>name</key>
 				<string>pci8086,2916</string>
 			</dict>
-			<key>PciRoot(0x1)/Pci(0x1E,0x0)/Pci(0x1,0x0)/Pci(0x13,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1E,0x0)/Pci(0x1,0x0)/Pci(0x13,0x0)</key>
 			<dict>
 				<key>built-in</key>
 				<data>AQ==</data>
 			</dict>
-			<key>PciRoot(0x1)/Pci(0x1E,0x0)/Pci(0x1,0x0)/Pci(0x12,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1E,0x0)/Pci(0x1,0x0)/Pci(0x12,0x0)</key>
 			<dict>
 				<key>built-in</key>
 				<data>AQ==</data>
 			</dict>
-			<key>PciRoot(0x1)/Pci(0x1C,0x3)/Pci(0x0,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1C,0x3)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>built-in</key>
 				<data>AQ==</data>
 			</dict>
-			<key>PciRoot(0x1)/Pci(0x10,0x2)/Pci(0x0,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x10,0x2)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>built-in</key>
 				<data>AQ==</data>
 			</dict>
-			<key>PciRoot(0x1)/Pci(0x1B,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1B,0x0)</key>
 			<dict>
 				<key>name</key>
 				<string>23646973706C6179</string>
@@ -467,7 +467,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>ScanPolicy</key>
-			<integer>19857667</integer>
+			<integer>0</integer>
 			<key>SecureBootModel</key>
 			<string>Disabled</string>
 			<key>Vault</key>
